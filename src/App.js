@@ -3,7 +3,6 @@ import "react-awesome-lightbox/build/style.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './Pages/Home';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
-// import Header from './Components/Header/Header';
 import Footer from './Components/Footer/Footer';
 import Header1 from './Components/Header/Header1';
 import About from './Pages/About';
